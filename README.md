@@ -1,2 +1,3 @@
 # hello-world
-Thank you, this is my first repository！
+谢谢，这是我的第一个存储库！
+这是一个神奇的平台
